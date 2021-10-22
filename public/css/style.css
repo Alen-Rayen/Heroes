@@ -1,0 +1,13 @@
+body {
+    background-color: #b6b2ae;
+}
+
+button {
+    padding-inline-end: 10px;
+    padding-inline-end: 0 10px;
+}
+#button-danger {
+    background-color: hsl(214, 30%, 85%);
+    border: none;
+    border-radius: 10px;
+}
